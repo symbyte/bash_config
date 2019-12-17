@@ -1,5 +1,4 @@
 export NODE_ENV='dev'
-export NPM_TOKEN=4e792f67-ef84-4fdd-b9c2-b29343d01450
 export EDITOR=vim
 export BABEL_ENV=commonjs
 #bash completion
